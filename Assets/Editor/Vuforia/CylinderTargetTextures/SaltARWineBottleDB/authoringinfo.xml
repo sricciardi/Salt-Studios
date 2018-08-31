@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="SaltWineBottleAR_v4" version="3.0" targetId="cb2891d09a194539bce6eb1a7895c88d" sideLength="4.750000" topDiameter="2.916000" bottomDiameter="2.916000" sideImage="SaltWineBottleAR_v4.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
